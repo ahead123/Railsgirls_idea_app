@@ -31,9 +31,9 @@ gem 'spring',        group: :development
 # gem 'bcrypt', '~> 3.1.7'
 gem 'devise'
 gem 'omniauth'
-gem 'omniauth-twitter'
+gem 'omniauth-twitter', '>= 1.0.1'
 gem 'omniauth-facebook'
-gem 'omniauth-linkedin'
+gem 'omniauth-linkedin', '>= 0.2.0'
 # Use unicorn as the app server
 # gem 'unicorn'
 
